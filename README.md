@@ -43,3 +43,8 @@ The firmware architecture relies on a robust **State Machine** (`state_machine.c
 
 #### **3. Differential IR Sensing & PID**
 The navigation system utilizes a single **IR emitter paired with dual detectors**. By comparing analog voltage drops via the 10-bit ADC, the firmware calculates a precise error value fed into a **PID loop** to adjust PWM signals, ensuring smooth tracking.
+
+---
+**Author:** Luca Daloia  
+**Project Date:** Spring 2026  
+**Course:** ECE 306

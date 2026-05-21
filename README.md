@@ -47,4 +47,4 @@ The navigation system utilizes a single **IR emitter paired with dual detectors*
 ---
 **Author:** Luca Daloia  
 **Project Date:** Spring 2026  
-**Course:** ECE 306
+**Course:** ECE 306 
